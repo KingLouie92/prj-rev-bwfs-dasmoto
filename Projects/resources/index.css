@@ -1,0 +1,57 @@
+h1 {
+  color: khaki;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  align-items: baseline;
+}
+
+h2 {
+  color: white;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+
+h4 {
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+img {
+  max-height: 100px;
+}
+
+.banner {
+  width: 260px;
+  object-fit: fill;
+
+
+
+}
+
+.centered {
+  position: absolute;
+  top: 1px;
+  width: 100%;
+  text-align: center;
+  font-size: 100px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: khaki;
+
+}
+ #paints {
+   background-color: skyblue;
+ }
+
+ #brush {
+   background-color: mediumspringgreen;
+ }
+
+ #frame {
+   background-color: lightcoral;
+ }
